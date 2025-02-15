@@ -9,4 +9,4 @@ I am an aspiring statistical analyst and researcher, always eager to expand my s
 **More about me**
 🎷🎸⛳🎲🥘☕📖
 
-* Always learning, ==forever updating==
+* Always learning, ~~forever updating~~
